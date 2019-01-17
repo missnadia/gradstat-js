@@ -28,7 +28,7 @@ gem 'omniauth-facebook'
 gem 'groupdate'
 gem 'dotenv-rails'
 gem 'rack', '>= 2.0.6'
-gem 'active_model_serializers', '0.10.6'
+gem 'active_model_serializers'
 gem 'jquery-rails'
 
 
