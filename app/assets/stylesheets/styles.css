@@ -72,7 +72,7 @@ h2 {
 }
 
 /* <<======== BUTTON STYLES ========>> */
-.button, .comment_button {
+.button, .comment_button, .edit_comment, .delete_comment {
     background-color: #008CBA;
     border: none;
     color: white;
@@ -91,7 +91,7 @@ h2 {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-.submit_button {
+.submit_button, #new-course-link {
     background-color: #008CBA;
     border: none;
     color: white;
